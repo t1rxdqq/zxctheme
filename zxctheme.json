@@ -1,0 +1,23 @@
+{
+  "manifest": {
+    "author": "t1rxdqq",
+    "version": "0.0.1",
+    "name": "zxctheme",
+    "transparency_mode": 3
+  },
+  "background": {
+    "url": "https://raw.githubusercontent.com/t1rxdqq/zxctheme/master/assets/ff86513467e046912f4468a8e9c78541.jpg"
+  },
+  "simple_colors": {
+    "background": 12719381,
+    "input_background": -14408668
+  },
+  "colors": {
+    "primary_dark_630": -1992080573,
+    "primary_dark_660": 1664036916,
+    "brand_new_560": 0
+  },
+  "drawable_tints": {
+    "drawable_bg_reaction_dark": 773265175
+  }
+}
